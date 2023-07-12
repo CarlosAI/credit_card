@@ -20,7 +20,9 @@ Ruby was selected as the programming language for this project due to my 5 years
 
 This project requires the RSpec testing library to run the tests. To install RSpec, you can use the following command:
 
+```bash
 gem install rspec
+```
 
 ## Building and Running
 
@@ -33,8 +35,9 @@ ruby credit_card_manager.rb input.txt
 
 To run the tests, navigate to the project directory in your terminal and use the following command:
 
+```bash
 rspec spec
-
+```
 
 ## Tests
 
