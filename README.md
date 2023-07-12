@@ -30,7 +30,9 @@ There is no need to build or compile the code as Ruby is an interpreted language
 
 To run the main program, use the following command (replacing `input.txt` with your input file):
 
+```bash
 ruby credit_card_manager.rb input.txt
+```
 
 
 To run the tests, navigate to the project directory in your terminal and use the following command:
